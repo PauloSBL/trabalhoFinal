@@ -12,8 +12,9 @@
 }
 
 
+
 .loginCard{
-    width: 15%;
+    width: 300px;
     padding: 30px;
     background: rgba( 255, 255, 255, 0.25 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -27,6 +28,7 @@
     font-size:1.2rem;
     font-weight:500;
     font-family: Roboto;
+    display: block;
 }
 
 .inputLogin{
@@ -58,7 +60,7 @@ button{
 }
 
 .cadastroCard{
-    width: 15%;
+    width: 300px;
     padding: 30px;
     background: rgba(255, 0, 0, 0.651);
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -82,3 +84,21 @@ button{
     height: 25px;
 }
 
+.esconder{
+    display:none;
+}
+
+.esmaecer {
+    animation: fadeOut 1s linear;
+    animation-fill-mode: forwards;
+
+  }
+  
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
