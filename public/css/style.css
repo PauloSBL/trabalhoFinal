@@ -1,0 +1,91 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url('OpenSans-Regular.ttf') format('truetype');
+  }
+  
+*{
+	font-family: 'Luckiest Guy';
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+}
+span, h4{
+	font-family: 'Arial' !important;
+	font-weight: 600;
+	display: inline;
+}
+.stat{
+	background-color: #ff4b62 !important;
+	text-align: center;
+	color:white !important; 
+}
+
+.dark{
+    background-color:#705848 !important;
+}
+
+.ice {
+    background-color: #98D8D8 !important;
+}
+
+.steel {
+	background-color: #B8B8D0 !important;
+}
+
+.water {
+	background-color: #6890F0 !important;
+}
+
+.ground {
+	background-color: #E0C068 !important;
+}
+.fire {
+	background-color: #F08030 !important;
+}
+.grass {
+	background-color: #78C850 !important;
+}
+
+.electric {
+	background-color: #F8D030 !important;
+}
+.fighting {
+	background-color: #C03028 !important;
+}
+
+.normal {
+	background-color: #A8A878 !important;
+}
+
+.rock {
+	background-color: #B8A038 !important;
+}
+
+.fairy {
+	background-color: #EE99AC !important;
+}
+
+.poison {
+	background-color: #A040A0 !important;
+}
+
+.bug {
+	background-color: #A8B820 !important;
+}
+
+.dragon {
+	background-color: #7038F8 !important;
+}
+
+.psychic {
+	background-color: #F85888 !important;
+}
+.flying {
+	background-color: #A890F0 !important;
+}
+.ghost {
+	background-color: #705898 !important;
+}

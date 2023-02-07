@@ -1,0 +1,36 @@
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+li{
+    list-style: none;
+}
+
+.logo{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.navBarMenu{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.itemMenu{
+    background-color: #ff4b62 !important;
+    font-size: 2rem;
+    padding: 10px;
+    border-radius: 25px;
+    color:#fff;
+}
+
+.pokemonQnt{
+    text-align:center; 
+    margin-top:50px; 
+    color:white; 
+    text-shadow: 2px 2px 4px #000000;
+}
