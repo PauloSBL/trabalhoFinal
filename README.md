@@ -15,4 +15,6 @@
   <li>Nodemon - monitorar a mudança de codigo</li>
   <li>Session-file-store - armazenamento de session localmente</li>
 </ul>
-<p>Uma pokedex virtual onde você pode ter seus pokemons capturados, onde são exibidas informações sobre eles.</p>
+<p>Para a instalação dos modulos basta dar um npm install</p>
+<p>Também é preciso criar um banco de dados chamado 'podedex'</p>
+
