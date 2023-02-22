@@ -18,3 +18,17 @@
 <p>Para a instalação dos modulos basta dar um npm install</p>
 <p>Também é preciso criar um banco de dados chamado 'podedex'</p>
 
+<h2>ROTAS</h2>
+<p>Para o user padrão é possivel acessar as seguintes rotas</p>
+<ul>
+  <li>Rota '/' que é a home</li>
+  <li>Rota '/login' rota de login</li>
+  <li>Rota '/singup' rota de registro</li>
+  <li>Rota '/addpokemon' rota para adicionar um pokemon ao user</li>
+  <li>Rota 'verpokemon/{id-do-pokemon-no-db}' rota para a edição de um pokemon no banco de dados</li>
+  <li>Rota '/logout' rota para fazer o logout de sua conta</li>
+</ul>
+
+<h2>Adicionar Pokemon</h2>
+<p>Você pode adicionar qualquer pokemon, pesquisando ele pelo nome ou o ID da WorldPokedex dele. </p>
+
